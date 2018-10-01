@@ -1,4 +1,4 @@
-# csportfolio
+# csPortfolio
 * WebPage [here]()
 * Lightning [here](https://github.com/WaiteL/Lightning/blob/master/lighting2.pde)
 
