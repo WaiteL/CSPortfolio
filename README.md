@@ -39,7 +39,7 @@ void mousePressed()
 
 }
 ```
-* Lightning JS [here]
+* Lightning JS [here]()
 
 ``` Java Script
 
