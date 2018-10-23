@@ -77,7 +77,7 @@ endx=0;
 endy=150;
 }
 ```
-* Die [here]()
+* Die [here](https://github.com/WaiteL/dice3/blob/gh-pages/dieJava.pde)
 ``` Java
 
 void setup()
