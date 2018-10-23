@@ -77,3 +77,95 @@ endx=0;
 endy=150;
 }
 ```
+*Die [here]()
+''' Java
+
+void setup()
+{
+  size(830, 830);
+  background(30, 30, 30);
+  noLoop();
+}
+void draw()
+{
+  int xpos=-50;
+  int ypos=-50;
+  for (int i=0; i< 15; i++) {
+    ypos=ypos+=55;
+   xpos=-50;
+  for (int t=0; t<15; t++){
+      xpos=xpos+=55;
+    Die die=new Die(xpos,ypos);
+    fill(30,30,30);
+    stroke(0,255,0);
+    rect(xpos, ypos, 50, 50,10);
+    die.roll();
+  }
+  }
+  
+  
+}
+void mousePressed()
+{
+  redraw();
+}
+class Die //models one single dice cube
+{
+  int count=0;
+  int x;
+  int y;
+  Die(int x, int y) //constructor
+  {
+   this.x=x;
+   this.y=y;
+  }
+  void roll()
+  {
+   
+  count=(int)(Math.random()*6)+1;
+   
+    if (count==1){
+    fill(0,255,0);
+      textSize(50);
+      text("1", x+10,y+43);
+      
+    }
+      if (count==2){
+        fill(0,255,0);
+        textSize(50);
+      text("2", x+10,y+43);
+        
+    }
+    if (count==3){
+        fill(0,255,0);
+      textSize(50);
+      text("3", x+10,y+43);
+      
+    }
+    if (count==4){
+        fill(0,255,0);
+      textSize(50);
+      text("4", x+10,y+43);
+      
+    }
+    if (count==5){
+      fill(0,255,0);
+       textSize(50);
+      text("5", x+10,y+43);
+    }
+    if (count==6){
+      fill(0,255,0);
+      textSize(50);
+      text("6", x+10,y+43);
+      
+    }
+    
+  }
+  void show()
+  {
+    textSize(100);
+    text("total is: "+count,200,800);
+   
+  }
+}
+'''
