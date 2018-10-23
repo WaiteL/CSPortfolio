@@ -77,7 +77,7 @@ endx=0;
 endy=150;
 }
 ```
-*Die [here]()
+* Die [here]()
 ``` Java
 
 void setup()
