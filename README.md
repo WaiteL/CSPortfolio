@@ -78,7 +78,7 @@ endy=150;
 }
 ```
 *Die [here]()
-''' Java
+``` Java
 
 void setup()
 {
@@ -168,4 +168,4 @@ class Die //models one single dice cube
    
   }
 }
-'''
+```
