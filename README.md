@@ -168,7 +168,7 @@ class Die //models one single dice cube
   }
   ```
   
-  * chemotaxis [here](https://github.com/ACS-Curriculum/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
+  * chemotaxis [here](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
  ``` Java
    void follow(){
