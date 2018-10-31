@@ -166,6 +166,32 @@ class Die //models one single dice cube
     textSize(100);
     text("total is: "+count,200,800);
    
+   * chemotaxis [here](https://github.com/ACS-Curriculum/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
+   ```
+   void follow(){
+
+    int xdiff=x-mouseX;
+    int ydiff=y-mouseY;
+
+    float angle=0;
+ 
+    if (xdiff==0) {
+      if (ydiff<0) {
+        angle=PI/2;
+      } else if (ydiff>0) {
+        angle=PI*1.5;
+      } else {
+        return;
+      }
+    }
+       if(xdiff==0&&ydiff==0){
+      ellipse (mouseX, mouseY, 10, 10);
+     return;
+    }
+    if (xdiff!=0) {
+      angle = atan(ydiff/xdiff);
+    }
+    ```
   }
 }
 ```
