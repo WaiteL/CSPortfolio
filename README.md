@@ -165,9 +165,9 @@ class Die //models one single dice cube
   {
     textSize(100);
     text("total is: "+count,200,800);
-   
+     ```
    * chemotaxis [here](https://github.com/ACS-Curriculum/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
-   ```
+ 
    void follow(){
 
     int xdiff=x-mouseX;
