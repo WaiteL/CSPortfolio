@@ -2,7 +2,7 @@
 * WebPage [here]()
 * Lightning [here](https://github.com/WaiteL/Lightning/blob/master/lighting2.pde)
 
-```Java
+``` Java
 
 void draw()
 {
@@ -18,6 +18,7 @@ void draw()
   starty=endy;
 }
 }
+
 ```
 * Lightning JS [here](https://github.com/WaiteL/lightning-JS/blob/master/lightingJS.js)
 
@@ -63,7 +64,8 @@ void draw()
       text("6", x+10,y+43);
     }
   }
-  ```
+ 
+ ```
   
   * chemotaxis [here](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
@@ -91,7 +93,5 @@ void draw()
     if (xdiff!=0) {
       angle = atan(ydiff/xdiff);
     }
-    ```
-  }
-}
-```
+   
+   ```
