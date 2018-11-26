@@ -3,7 +3,7 @@
 ## **Lightning** [*here*](https://github.com/WaiteL/Lightning/blob/master/lighting2.pde)
 
 ```
- * Java
+######Java
 
 void draw()
 {
