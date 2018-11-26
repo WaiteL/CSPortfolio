@@ -68,7 +68,7 @@ void draw()
   }
 ```
   
-  ## **chemotaxis** [[*here*]](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
+## **chemotaxis** [[*here*]](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
 ```
 ⋅⋅* Java
