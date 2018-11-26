@@ -1,6 +1,6 @@
 # csPortfolio
 
-* **Lightning** [here](https://github.com/WaiteL/Lightning/blob/master/lighting2.pde)
+* **Lightning** [*here*](https://github.com/WaiteL/Lightning/blob/master/lighting2.pde)
 
 ``` Java
 
@@ -20,7 +20,7 @@ void draw()
 }
 
 ```
-* **Lightning JS** [here](https://github.com/WaiteL/lightning-JS/blob/master/lightingJS.js)
+* **Lightning JS** [*here*](https://github.com/WaiteL/lightning-JS/blob/master/lightingJS.js)
 
 ``` Java Script
 
@@ -67,7 +67,7 @@ void draw()
  
  ```
   
-  * **chemotaxis** [here](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
+  * **chemotaxis** [*here*](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
  ``` Java
    void follow(){
