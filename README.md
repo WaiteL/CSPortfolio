@@ -99,3 +99,32 @@ void draw()
     }
    
 ```
+ ## **Starfield** [*here*](https://github.com/WaiteL/starfield5/blob/gh-pages/Starfield.pde)
+ 
+ ```
+ * Java
+ 
+ public class NormalParticle implements Particle {
+  double x, y, speed, angle;
+  NormalParticle() {
+    x =width/2;
+    y =height/2;
+    ///what does this do?
+    angle=Math.random()*Math.PI*2;
+    speed=3;
+  }
+  public void move() {
+    x+= Math.cos(angle) * speed;
+    y+= Math.sin(angle) * speed;
+  
+    
+    ///what does this do?
+    angle+=.045;
+    
+  }
+  
+  ```
+  
+ ## **Airforce Presentation** [*here*](https://docs.google.com/presentation/d/1Azlu7a9b8MLRFZQx-q3OFckwEjSyRAhu1hGTPwVeKHA/edit#slide=id.p)
+ 
+ 
