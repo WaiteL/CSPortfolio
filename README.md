@@ -73,8 +73,9 @@ Java Script
   * **chemotaxis** [*here*](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
  ``` 
- Java
-   void follow(){
+Java
+  
+  void follow(){
 
     int xdiff=x-mouseX;
     int ydiff=y-mouseY;
