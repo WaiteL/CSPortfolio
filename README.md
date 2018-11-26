@@ -21,7 +21,7 @@ void draw()
 }
 ```
 
-## **Lightning JS** [*here*](https://github.com/WaiteL/lightning-JS/blob/master/lightingJS.js)
+## **Lightning JS** [[*here*]](https://github.com/WaiteL/lightning-JS/blob/master/lightingJS.js)
 
 ```
 ⋅⋅* Java Script
@@ -68,7 +68,7 @@ void draw()
   }
 ```
   
-  ## **chemotaxis** [*here*](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
+  ## **chemotaxis** [[*here*]](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
 ```
 ⋅⋅* Java
@@ -97,7 +97,7 @@ void draw()
       angle = atan(ydiff/xdiff);
     } 
 ```
-   ## **Starfield** [*here*](https://github.com/WaiteL/starfield5/blob/gh-pages/Starfield.pde)
+   ## **Starfield** [[*here*]](https://github.com/WaiteL/starfield5/blob/gh-pages/Starfield.pde)
  
  ```
  ⋅⋅* Java
@@ -122,6 +122,6 @@ void draw()
   }
   ```
   
- ## **Airforce Presentation** [*here*](https://docs.google.com/presentation/d/1Azlu7a9b8MLRFZQx-q3OFckwEjSyRAhu1hGTPwVeKHA/edit#slide=id.p)
+ ## **Airforce Presentation** [[*here*]](https://docs.google.com/presentation/d/1Azlu7a9b8MLRFZQx-q3OFckwEjSyRAhu1hGTPwVeKHA/edit#slide=id.p)
  
  
