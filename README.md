@@ -66,7 +66,6 @@ void draw()
       text("6", x+10,y+43);
     }
   }
- 
 ```
   
   ## **chemotaxis** [*here*](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
@@ -96,8 +95,7 @@ void draw()
     }
     if (xdiff!=0) {
       angle = atan(ydiff/xdiff);
-    }
-   
+    } 
 ```
    ## **Starfield** [*here*](https://github.com/WaiteL/starfield5/blob/gh-pages/Starfield.pde)
  
@@ -122,7 +120,6 @@ void draw()
     angle+=.045;
     
   }
-  
   ```
   
  ## **Airforce Presentation** [*here*](https://docs.google.com/presentation/d/1Azlu7a9b8MLRFZQx-q3OFckwEjSyRAhu1hGTPwVeKHA/edit#slide=id.p)
