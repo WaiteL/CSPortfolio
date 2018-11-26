@@ -3,7 +3,7 @@
 ## **Lightning** [*here*](https://github.com/WaiteL/Lightning/blob/master/lighting2.pde)
 
 ```
-..* Java
+⋅⋅* Java
 
 void draw()
 {
@@ -24,7 +24,7 @@ void draw()
 ## **Lightning JS** [*here*](https://github.com/WaiteL/lightning-JS/blob/master/lightingJS.js)
 
 ```
-..* Java Script
+⋅⋅* Java Script
 
   void roll()
   {
@@ -71,7 +71,7 @@ void draw()
   ## **chemotaxis** [*here*](https://github.com/WaiteL/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
  
 ```
-..* Java
+⋅⋅* Java
   
   void follow(){
 
@@ -100,7 +100,7 @@ void draw()
    ## **Starfield** [*here*](https://github.com/WaiteL/starfield5/blob/gh-pages/Starfield.pde)
  
  ```
- ..* Java
+ ⋅⋅* Java
  
  public class NormalParticle implements Particle {
   double x, y, speed, angle;
